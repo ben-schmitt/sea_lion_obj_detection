@@ -1,2 +1,3 @@
-# Sea_lion_obj_detection
-This notebook uses labeled image data from https://www.viametoolkit.org/ to explore object detection with pytorch. 
+# Sea Lion Detection in Aerial Images
+
+This repository contains a jupyter notebook that demonstrates how to  use labeled image data (from https://www.viametoolkit.org/) to perform object detection with pytorch. The data consist of aerial images of sea lions along the coast of Alaska. In wildlife management, aerial surveys are often used to estimate the size of animal populations that occupy large spatial ranges. Aerial photographic surveys can capture many animals at a time over vast habitats; but it can be time-consuming and difficult for human analysts to identify and count all these animals. Computer vision methods show great promise in improving the speed and accuracy of identifying and classifying animals in aerial imagery.
